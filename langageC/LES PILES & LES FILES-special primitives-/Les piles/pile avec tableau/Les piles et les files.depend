@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640192699 source:c:\users\hp\desktop\langagec\les piles & les piles\les piles et les files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

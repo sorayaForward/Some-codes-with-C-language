@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641120530 source:c:\users\hp\desktop\langagec\les piles & les piles\exo1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"primitivesPile.h"
+
+1641116977 c:\users\hp\desktop\langagec\les piles & les piles\exo1.c\primitivespile.h
+
+1641119441 source:c:\users\hp\desktop\langagec\les piles & les piles\exo1.c\primitivespile.c
+	<stdio.h>
+	<stdlib.h>
+	"primitivesPile.h"
+
